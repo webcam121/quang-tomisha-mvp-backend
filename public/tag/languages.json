@@ -1,0 +1,758 @@
+[
+  {
+    "id": "eng",
+    "name": "Englisch"
+  },
+  {
+    "id": "cmn",
+    "name": "Chinesisch Mandarin"
+  },
+  {
+    "id": "spa",
+    "name": "Spanisch"
+  },
+  {
+    "id": "hin",
+    "name": "Hindi"
+  },
+  {
+    "id": "ara",
+    "name": "Arabisch"
+  },
+  {
+    "id": "ben",
+    "name": "Bengalisch"
+  },
+  {
+    "id": "fra",
+    "name": "Französisch"
+  },
+  {
+    "id": "por",
+    "name": "Portugiesisch"
+  },
+  {
+    "id": "pt-BR",
+    "name": "Portugiesisch Brasilianisch"
+  },
+  {
+    "id": "rus",
+    "name": "Russisch"
+  },
+  {
+    "id": "urd",
+    "name": "Urdu"
+  },
+  {
+    "id": "ind",
+    "name": "Indonesisch"
+  },
+  {
+    "id": "deu",
+    "name": "Deutsch"
+  },
+  {
+    "id": "jpn",
+    "name": "Japanisch"
+  },
+  {
+    "id": "mar",
+    "name": "Marathi"
+  },
+  {
+    "id": "tel",
+    "name": "Telugu"
+  },
+  {
+    "id": "tur",
+    "name": "Türkisch"
+  },
+  {
+    "id": "yue",
+    "name": "Chinesisch Yue"
+  },
+  {
+    "id": "tam",
+    "name": "Tamil"
+  },
+  {
+    "id": "wuu",
+    "name": "Chinesisch Wu"
+  },
+  {
+    "id": "kor",
+    "name": "Koreanisch"
+  },
+  {
+    "id": "vie",
+    "name": "Vietnamesisch"
+  },
+  {
+    "id": "hau",
+    "name": "Hausa"
+  },
+  {
+    "id": "fas",
+    "name": "Persisch"
+  },
+  {
+    "id": "swa",
+    "name": "Swahili"
+  },
+  {
+    "id": "ita",
+    "name": "Italienisch"
+  },
+  {
+    "id": "jav",
+    "name": "Javanisch"
+  },
+  {
+    "id": "guj",
+    "name": "Gujarati"
+  },
+  {
+    "id": "tha",
+    "name": "Thailändisch"
+  },
+  {
+    "id": "kan ",
+    "name": "Kannada"
+  },
+  {
+    "id": "amh",
+    "name": "Amharisch"
+  },
+  {
+    "id": "bho",
+    "name": "Bhojpuri"
+  },
+  {
+    "id": "pan",
+    "name": "Panjabi"
+  },
+  {
+    "id": "abk",
+    "name": "Abchasisch"
+  },
+  {
+    "id": "aar",
+    "name": "Afar"
+  },
+  {
+    "id": "afr",
+    "name": "Afrikaans"
+  },
+  {
+    "id": "aka",
+    "name": "Akan"
+  },
+  {
+    "id": "squ",
+    "name": "Albanisch"
+  },
+  {
+    "id": "arg",
+    "name": "Aragonesisch"
+  },
+  {
+    "id": "hye",
+    "name": "Armenisch"
+  },
+  {
+    "id": "asm",
+    "name": "Assamesisch"
+  },
+  {
+    "id": "ava",
+    "name": "Awarisch"
+  },
+  {
+    "id": "ave",
+    "name": "Awestisch"
+  },
+  {
+    "id": "aym",
+    "name": "Aymara"
+  },
+  {
+    "id": "aze",
+    "name": "Aserbeidschanisch"
+  },
+  {
+    "id": "bam",
+    "name": "Bambara"
+  },
+  {
+    "id": "bak",
+    "name": "Baschkirisch"
+  },
+  {
+    "id": "eus",
+    "name": "Baskisch"
+  },
+  {
+    "id": "bel",
+    "name": "Weissrussisch"
+  },
+  {
+    "id": "bih",
+    "name": "Bihari"
+  },
+  {
+    "id": "bis",
+    "name": "Bislama"
+  },
+  {
+    "id": "bos",
+    "name": "Bosnisch"
+  },
+  {
+    "id": "bre",
+    "name": "Bretonisch"
+  },
+  {
+    "id": "bul",
+    "name": "Bulgarisch"
+  },
+  {
+    "id": "mya",
+    "name": "Burmesisch"
+  },
+  {
+    "id": "cat",
+    "name": "Katalanisch"
+  },
+  {
+    "id": "cha",
+    "name": "Chamorro"
+  },
+  {
+    "id": "che",
+    "name": "Tschetschenisch"
+  },
+  {
+    "id": "nya",
+    "name": "Chichewa"
+  },
+  {
+    "id": "chu",
+    "name": "Kirchenslawisch"
+  },
+  {
+    "id": "chv",
+    "name": "Tschuwaschisch"
+  },
+  {
+    "id": "cor",
+    "name": "Kornisch"
+  },
+  {
+    "id": "cos",
+    "name": "Korsisch"
+  },
+  {
+    "id": "cre",
+    "name": "Cree"
+  },
+  {
+    "id": "hrv",
+    "name": "Kroatisch"
+  },
+  {
+    "id": "ces",
+    "name": "Tschechisch"
+  },
+  {
+    "id": "dan",
+    "name": "Dänisch"
+  },
+  {
+    "id": "nld",
+    "name": "Niederländisch"
+  },
+  {
+    "id": "dzo",
+    "name": "Dzongkha"
+  },
+  {
+    "id": "epo",
+    "name": "Esperanto"
+  },
+  {
+    "id": "est",
+    "name": "Estnisch"
+  },
+  {
+    "id": "ewe",
+    "name": "Ewe"
+  },
+  {
+    "id": "fao",
+    "name": "Färöisch"
+  },
+  {
+    "id": "fij",
+    "name": "Fidschi"
+  },
+  {
+    "id": "fin",
+    "name": "Finnisch"
+  },
+  {
+    "id": "ful",
+    "name": "Ful"
+  },
+  {
+    "id": "glg",
+    "name": "Galicisch"
+  },
+  {
+    "id": "kat",
+    "name": "Georgisch"
+  },
+  {
+    "id": "kal",
+    "name": "Grönländisch"
+  },
+  {
+    "id": "grn",
+    "name": "Guaraní"
+  },
+  {
+    "id": "hat",
+    "name": "Haitianisch"
+  },
+  {
+    "id": "heb",
+    "name": "Hebräisch"
+  },
+  {
+    "id": "her",
+    "name": "Otjiherero"
+  },
+  {
+    "id": "hmo",
+    "name": "Hiri Motu"
+  },
+  {
+    "id": "hun",
+    "name": "Ungarisch"
+  },
+  {
+    "id": "isl",
+    "name": "Isländisch"
+  },
+  {
+    "id": "ido",
+    "name": "Ido"
+  },
+  {
+    "id": "ibo",
+    "name": "Igbo"
+  },
+  {
+    "id": "ina",
+    "name": "Interlingua"
+  },
+  {
+    "id": "ile",
+    "name": "Interlingue"
+  },
+  {
+    "id": "iku",
+    "name": "Inuktitut"
+  },
+  {
+    "id": "ipk",
+    "name": "Inupiaq"
+  },
+  {
+    "id": "gle",
+    "name": "Irisch"
+  },
+  {
+    "id": "kau",
+    "name": "Kanuri"
+  },
+  {
+    "id": "kas",
+    "name": "Kashmiri"
+  },
+  {
+    "id": "kaz",
+    "name": "Kasachisch"
+  },
+  {
+    "id": "khm",
+    "name": "Khmer"
+  },
+  {
+    "id": "kik",
+    "name": "Kikuyu"
+  },
+  {
+    "id": "kin",
+    "name": "Kinyarwanda"
+  },
+  {
+    "id": "kom",
+    "name": "Komi"
+  },
+  {
+    "id": "kon",
+    "name": "Kikongo"
+  },
+  {
+    "id": "kur",
+    "name": "Kurdisch"
+  },
+  {
+    "id": "kua",
+    "name": "Kwanyama"
+  },
+  {
+    "id": "kir",
+    "name": "Kirgisisch"
+  },
+  {
+    "id": "lao",
+    "name": "Laotisch"
+  },
+  {
+    "id": "lat",
+    "name": "Latein"
+  },
+  {
+    "id": "lav",
+    "name": "Lettisch"
+  },
+  {
+    "id": "lim",
+    "name": "Limburgisch"
+  },
+  {
+    "id": "lin",
+    "name": "Lingála"
+  },
+  {
+    "id": "lit",
+    "name": "Litauisch"
+  },
+  {
+    "id": "lub",
+    "name": "Kiluba"
+  },
+  {
+    "id": "lug",
+    "name": "Luganda"
+  },
+  {
+    "id": "ltz",
+    "name": "Luxemburgisch"
+  },
+  {
+    "id": "mkd",
+    "name": "Makedonisch"
+  },
+  {
+    "id": "mlg",
+    "name": "Malagasy"
+  },
+  {
+    "id": "msa",
+    "name": "Malaiisch"
+  },
+  {
+    "id": "mal",
+    "name": "Malayalam"
+  },
+  {
+    "id": "div",
+    "name": "Dhivehi"
+  },
+  {
+    "id": "mlt",
+    "name": "Maltesisch"
+  },
+  {
+    "id": "glv",
+    "name": "Manxs"
+  },
+  {
+    "id": "mri",
+    "name": "Māori"
+  },
+  {
+    "id": "mah",
+    "name": "Marschallesisch"
+  },
+  {
+    "id": "ell",
+    "name": "Neugriechisch"
+  },
+  {
+    "id": "mon",
+    "name": "Mongolisch"
+  },
+  {
+    "id": "cnr",
+    "name": "Montenegrinisch"
+  },
+  {
+    "id": "nau",
+    "name": "Nauruisch"
+  },
+  {
+    "id": "nav",
+    "name": "Navajo"
+  },
+  {
+    "id": "ndo",
+    "name": "Ndonga"
+  },
+  {
+    "id": "nep",
+    "name": "Nepali"
+  },
+  {
+    "id": "nde",
+    "name": "Nord-Ndebele"
+  },
+  {
+    "id": "sme",
+    "name": "Nordsamisch"
+  },
+  {
+    "id": "nor",
+    "name": "Norwegisch"
+  },
+  {
+    "id": "nob",
+    "name": "Norwegisch Bokmål"
+  },
+  {
+    "id": "nno",
+    "name": "Nynorsk Norwegisch"
+  },
+  {
+    "id": "iii",
+    "name": "Nosu"
+  },
+  {
+    "id": "oci",
+    "name": "Okzitanisch"
+  },
+  {
+    "id": "oji",
+    "name": "Ojibwa"
+  },
+  {
+    "id": "ori",
+    "name": "Oriya"
+  },
+  {
+    "id": "orm",
+    "name": "Oromo"
+  },
+  {
+    "id": "oss",
+    "name": "Ossetisch"
+  },
+  {
+    "id": "pli",
+    "name": "Pali"
+  },
+  {
+    "id": "pus",
+    "name": "Paschtu"
+  },
+  {
+    "id": "pol",
+    "name": "Polnisch"
+  },
+  {
+    "id": "que",
+    "name": "Quechua"
+  },
+  {
+    "id": "ron",
+    "name": "Rumänisch"
+  },
+  {
+    "id": "roh",
+    "name": "Rätoromanisch"
+  },
+  {
+    "id": "run",
+    "name": "Kirundi"
+  },
+  {
+    "id": "smo",
+    "name": "Samoanisch"
+  },
+  {
+    "id": "sag",
+    "name": "Sango"
+  },
+  {
+    "id": "san",
+    "name": "Sanskrit"
+  },
+  {
+    "id": "srd",
+    "name": "Sardisch"
+  },
+  {
+    "id": "gla",
+    "name": "Schottisch Gälisch"
+  },
+  {
+    "id": "srp",
+    "name": "Serbisch"
+  },
+  {
+    "id": "sna",
+    "name": "Schona"
+  },
+  {
+    "id": "snd",
+    "name": "Sindhi"
+  },
+  {
+    "id": "sin",
+    "name": "Singhalesisch"
+  },
+  {
+    "id": "slk",
+    "name": "Slowakisch"
+  },
+  {
+    "id": "slv",
+    "name": "Slowenisch"
+  },
+  {
+    "id": "som",
+    "name": "Somali"
+  },
+  {
+    "id": "nbl",
+    "name": "Süd-Ndebele"
+  },
+  {
+    "id": "sot",
+    "name": "Sesotho"
+  },
+  {
+    "id": "sun",
+    "name": "Sundanesisch"
+  },
+  {
+    "id": "ssw",
+    "name": "Siswati"
+  },
+  {
+    "id": "swe",
+    "name": "Schwedisch"
+  },
+  {
+    "id": "tgl",
+    "name": "Tagalog"
+  },
+  {
+    "id": "tah",
+    "name": "Tahitianisch"
+  },
+  {
+    "id": "tgk",
+    "name": "Tadschikisch"
+  },
+  {
+    "id": "tat",
+    "name": "Tatarisch"
+  },
+  {
+    "id": "bod",
+    "name": "Tibetisch"
+  },
+  {
+    "id": "tir",
+    "name": "Tigrinja"
+  },
+  {
+    "id": "ton",
+    "name": "Tongaisch"
+  },
+  {
+    "id": "tso",
+    "name": "Tsonga"
+  },
+  {
+    "id": "tsn",
+    "name": "Tswana"
+  },
+  {
+    "id": "tuk",
+    "name": "Turkmenisch"
+  },
+  {
+    "id": "twi",
+    "name": "Twi"
+  },
+  {
+    "id": "ukr",
+    "name": "Ukrainisch"
+  },
+  {
+    "id": "uig",
+    "name": "Uigurisch"
+  },
+  {
+    "id": "uzb",
+    "name": "Usbekisch"
+  },
+  {
+    "id": "ven",
+    "name": "Venda"
+  },
+  {
+    "id": "vol",
+    "name": "Volapük"
+  },
+  {
+    "id": "wln",
+    "name": "Wallonisch"
+  },
+  {
+    "id": "cym",
+    "name": "Walisisch"
+  },
+  {
+    "id": "fry",
+    "name": "Westfriesisch"
+  },
+  {
+    "id": "wol",
+    "name": "Wolof"
+  },
+  {
+    "id": "xho",
+    "name": "Xhosa"
+  },
+  {
+    "id": "yid",
+    "name": "Jiddisch"
+  },
+  {
+    "id": "yor",
+    "name": "Yoruba"
+  },
+  {
+    "id": "zha",
+    "name": "Zhuang"
+  },
+  {
+    "id": "zul",
+    "name": "Zulu"
+  }
+]

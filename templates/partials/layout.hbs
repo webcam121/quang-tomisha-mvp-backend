@@ -1,0 +1,171 @@
+<!doctype html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <style>
+    body {
+      font-size: 21px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #4A5568;
+    }
+    p {
+      margin: 0;
+    }
+    .metadata {
+      font-size: 16px;
+      color: #718096;
+    }
+    .small {
+      font-size: 14px;
+      color: #718096;
+    }
+    hr {
+      height: 1px;
+      color: #CBD5E0;
+      background-color: #CBD5E0;
+      border: none;
+    }
+    .mb-md {
+      margin-bottom: 20px;
+    }
+    .mb-lg {
+      margin-bottom: 32px;
+    }
+    .mb-xl {
+      margin-bottom: 36px;
+    }
+
+    .color-bar {
+      height: 5px;
+      background-color: #3182CE;
+      background-image: linear-gradient(to right, #319795, #3182CE);
+    }
+
+    .btn {
+      display: block !important;
+      width: 100% !important;
+      max-width: 320px !important;
+      height: 40px !important;
+      min-height: 40px !important;
+      border-radius: 12px !important;
+      background-color: #3182CE !important;
+      background: linear-gradient(95deg, #319795 0%, #3182CE 100%) !important;
+      font-size: 15px !important;
+      line-height: 40px !important;
+      color: #E6FFFA !important;
+      text-align: center !important;
+      cursor: pointer !important;
+      text-decoration: none !important;
+      outline: none !important;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .btn {
+        background-color: #3182CE !important;
+        background: linear-gradient(95deg, #319795 0%, #3182CE 100%) !important;
+        color: #E6FFFA !important;
+      }
+    }
+
+    [data-ogsc] .btn {
+      background-color: #3182CE !important;
+      background: linear-gradient(95deg, #319795 0%, #3182CE 100%) !important;
+      color: #E6FFFA !important;
+    }
+
+    .card {
+      border: 1px solid #CBD5E0;
+      border-radius: 12px;
+      width: 100%;
+      max-width: 320px;
+      background: #fff;
+    }
+
+    .avatar {
+      display: inline-block;
+      width: 48px;
+      height: 48px;
+      overflow: hidden;
+      border-radius: 100%;
+      border: 3px solid #4FD1C5;
+      box-sizing: border-box;
+    }
+    .card .avatar img {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+    .card .body {
+      display: inline-block;
+    }
+    .card .card-title {
+      font-size: 14px;
+      color: #3182CE;
+      font-weight: 600;
+    }
+
+    .card .card-sub-title {
+      font-size: 12px;
+      color: #718096;
+      font-weight: 300;
+      margin-top: 6px;
+    }
+
+    .message-label {
+      font-size: 12px;
+      color: #718096;
+      font-weight: 300;
+      margin-bottom: 2px;
+    }
+
+    .message {
+      border-radius: 12px;
+      border: 1px solid #CBD5E0;
+      background: #fff;
+      padding: 16px 24px;
+      color: #718096;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="color-bar mb-xl"></div>
+
+  <div style="padding: 0 20px;">
+    <table class="mb-xl" style="border: none; width: 100%;">
+      <tr border="0">
+        <td valign="middle" width="35" height="35">
+          <img height="35px" width="35px" src="https://tomisha.io/img/email-logo.png" style="display: block;" />
+        </td>
+
+        <td valign="middle" style="font-size: 42px; font-weight: 400; line-height: 1; margin-top: 0; color: #718096; padding-left: 4px;">
+          tomisha
+        </td>
+      </tr>
+    </table>
+
+    <div class="main mb-xl">
+      {{> content}}
+    </div>
+
+    <div>
+      <p class="sender mb-md">
+        Danke!<br />
+        Dein Tomisha-Team
+      </p>
+
+      <hr class="mb-md">
+
+      <p class="small">
+        Copyright © 2020 Tomisha. Alle Rechte vorbehalten.
+        <br />
+        <br />
+        Mit ❤ von Tomisha versendet<br />
+        Tomisha, Thomas Hungerbühler,<br />
+        Brühlbergstrasse 11, 8400 Winterthur, Schweiz
+      </p>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{{#> layout}}
+  {{#*inline "content"}}
+    <p class="mb-md">
+      Hallo,
+      <br />
+      <br />
+      ein Mitarbeiter möchte gerne zu deinem Unternehmen hinzugefügt werden. Klicke auf den Button um zu antworten. Nach 30 Tage wird diese Antwort hinfällig.
+    </p>
+
+    <label class="message-label">Nachricht von Arbeitnehmer</label>
+    <p class="message mb-lg">
+      {{message}}
+    </p>
+
+    <a href="{{href}}" rel="notrack" target="_blank" class="btn mb-lg">
+      Überprüfung des Mitarbeiters
+    </a>
+  {{/inline}}
+{{/layout}}

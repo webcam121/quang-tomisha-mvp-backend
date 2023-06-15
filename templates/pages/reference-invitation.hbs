@@ -1,0 +1,31 @@
+{{#> layout}}
+  {{#*inline "content"}}
+    <p class="mb-md">
+      Hallo {{receiverName}},
+      <br />
+      <br />
+      du wurdest aufgefordert, eine Referenz zu erstellen von:
+    </p>
+
+    <table class="card mb-md">
+      <tr border="0">
+        <td valign="middle" width="auto" height="auto" style="padding: 10px 15px;">
+          <div class="avatar">
+            <img src="{{senderPicture}}" />
+          </div>
+        </td>
+
+        <td v-align="middle" style="width: 100%; padding: 10px 10px 10px 0;">
+          <div class="body">
+            <div class="card-title">{{senderName}}</div>
+            <div class="card-sub-title">{{senderAddress}}</div>
+          </div>
+        </td>
+      </tr>
+    </table>
+
+    <a href="{{href}}" rel="notrack" target="_blank" class="btn">
+      Zur Anfrage
+    </a>
+  {{/inline}}
+{{/layout}}

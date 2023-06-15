@@ -1,0 +1,25 @@
+{{#> layout}}
+  {{#*inline "content"}}
+    <p class="mb-md">
+      Hallo {{receiverName}},
+      <br />
+      <br />
+      herzlich willkommen bei Tomisha! Schön, dass du da bist.<br />
+      Um loslegen zu können, musst du zuerst deine E-Mail-Adresse bestätigen.<br />
+      Klick bitte auf den folgenden Link, um deine Anmeldung zu vervollständigen:
+    </p>
+
+    <a href="{{href}}" rel="notrack" target="_blank" class="btn mb-lg">
+      E-Mail-Adresse bestätigen
+    </a>
+
+    <p class="mb-md">
+      oder füge ihn in dein Browser ein:
+      <br />
+
+      <a href="{{href}}" rel="notrack" target="_blank" class="small">{{href}}</a>
+    </p>
+
+    <p>Dieser Link ist nur in den nächsten {{expHours}} Stunden gültig.</p>
+  {{/inline}}
+{{/layout}}

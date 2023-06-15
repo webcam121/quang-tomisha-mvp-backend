@@ -1,0 +1,1 @@
+export { FindTagsDto } from './find-tags.dto';

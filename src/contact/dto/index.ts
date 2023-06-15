@@ -1,0 +1,1 @@
+export { FindContactsDto } from './find-contacts.dto';
